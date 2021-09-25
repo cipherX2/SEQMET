@@ -6,3 +6,10 @@
 #### Furthur Advancements to be made : 
 1. Enable RFID.
 2. Enable GPS,GSM and Image Processing.
+
+
+#### Tech Stack :
+1. HTML
+2. CSS
+3. BOOTSTRAP
+4. PHP
